@@ -1,0 +1,58 @@
+body
+{
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+.container
+{
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #cccccc;
+}
+
+input, select
+{
+  padding: 6px;
+  margin: 4px 4px 4px 0;
+}
+
+button
+{
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+table
+{
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td
+{
+  border: 1px solid #cccccc;
+  padding: 8px;
+  text-align: left;
+}
+
+th
+{
+  background-color: #eeeeee;
+}
+
+.hidden
+{
+  display: none;
+}
+
+#message
+{
+  color: #b00020;
+  min-height: 20px;
+}
